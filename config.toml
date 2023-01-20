@@ -1,0 +1,33 @@
+theme = "lynx"
+title = "na Bio"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Sapiens"
+  headline = "Agência Experimental de Publicidade e Propaganda"
+  image = "author.jpg"
+  links = [
+    { blog = { href = "https://sapienstj.netlify.app/", text = "Blog da Sapiens" } },
+    { tom = { href = "https://tominformativo.netlify.app/", text = "Jornal Tom Informativo" } },
+    { instagram = "https://instagram.com/sapienstj" },
+    #{ link = { href = "sapiens/", text = "All the link styles", target = "_self" } },
+    { email = { href = "mailto:sapienstjatendi@gmail.com", text = "Fale conosco" } },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
+
+baseURL = "https://nabio.netlify.app/"
+languageCode = "pt"
+defaultContentLanguage = "pt"
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"

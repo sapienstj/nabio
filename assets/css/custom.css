@@ -1,0 +1,20 @@
+.link-font-awesome {
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 1) 50%,
+    rgba(252, 176, 69, 1) 100%
+  );
+}
+
+.link-blog {
+  background: linear-gradient(163.08deg, #2A323F 11.66%, #1C2431 110.58%);
+}
+
+.link-tom {
+  background: linear-gradient(0deg, #123970, #123970),
+linear-gradient(138.22deg, rgba(21, 213, 255, 0.2) 0.44%, rgba(255, 255, 255, 0) 101.11%);
+}
+
+
