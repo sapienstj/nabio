@@ -1,5 +1,5 @@
 ---
-description: "This is a demo of the Lynx theme for Hugo."
+description: "Olha um pouco de tudo o que a Sapiens faz."
 type: post
 layout: index.html
 title: Sapiens
