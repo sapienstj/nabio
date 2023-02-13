@@ -9,10 +9,10 @@ disableKinds = ["taxonomy", "term"]
   headline = "Agência Experimental de Publicidade e Propaganda"
   image = "author.jpg"
   links = [
-    { link = { href = "https://agenciasapiens.netlify.app/", text = "Confira nosso *novo* site" } },    
+    #{ link = { href = "https://agenciasapiens.netlify.app/", text = "Confira nosso site" } },    
     { blog = { href = "https://sapienstj.netlify.app/", text = "Blog da Sapiens" } },
     { tom = { href = "https://tominformativo.netlify.app/", text = "Jornal Tom Informativo" } },
-    { instagram = "https://instagram.com/sapienstj/" }
+    { instagram = "https://instagram.com/sapienstj/" },
     { email = { href = "mailto:sapienstjatendi@gmail.com", text = "Fale conosco" } },
 
   ]
