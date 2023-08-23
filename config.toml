@@ -13,6 +13,7 @@ disableKinds = ["taxonomy", "term"]
     { blog = { href = "https://blog.sapienstj.com.br/", text = "Blog da Sapiens" } },
     { tom = { href = "https://tominformativo.sapienstj.com.br/", text = "Jornal Tom Informativo" } },
     { instagram = "https://instagram.com/sapienstj/" },
+    { link = { href = "https://sapienstj.com.br/seletiva", text = "Confira nosso site" } },  
     { email = { href = "mailto:sapienstjatendi@gmail.com", text = "Fale conosco" } },
   ]
 
