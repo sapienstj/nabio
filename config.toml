@@ -9,13 +9,11 @@ disableKinds = ["taxonomy", "term"]
   headline = "Agência Experimental de Publicidade e Propaganda"
   image = "author.jpg"
   links = [
-    { }
-    { link = { href = "https://sapienstj.com.br/seletiva", text = "Faça sua inscrição" } },    
+    { link = { href = "https://sapienstj.com.br/seletiva", text = "Faça sua inscrição" } },  
     { blog = { href = "https://blog.sapienstj.com.br/", text = "Blog da Sapiens" } },
     { tom = { href = "https://tominformativo.sapienstj.com.br/", text = "Jornal Tom Informativo" } },
     { instagram = "https://instagram.com/sapienstj/" },
     { email = { href = "mailto:sapienstjatendi@gmail.com", text = "Fale conosco" } },
-
   ]
 
 [markup.highlight]
@@ -25,7 +23,7 @@ disableKinds = ["taxonomy", "term"]
 [markup.goldmark.renderer]
   unsafe = true
 
-baseURL = "https://nabio.netlify.app/"
+baseURL = "https://links.sapienstj.com.br/"
 languageCode = "pt"
 defaultContentLanguage = "pt"
 
