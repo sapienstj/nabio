@@ -15,8 +15,7 @@ disableKinds = ["taxonomy", "term"]
     { tom = { href = "https://jornal.sapienstj.com.br/", text = "Jornal Tom Informativo" } },
     { instagram = "https://instagram.com/sapienstj/" },
     { link = { href = "https://sapienstj.com.br/", text = "Confira nosso site" } },    
-    { email = { href = "mailto:sapienstjatendi@gmail.com", text = "Fale conosco" } },
-
+    { email = { href = "mailto:sapienstjatendi@gmail.com", text = "Fale conosco" } }
   ]
 
 [markup.highlight]
