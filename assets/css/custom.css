@@ -17,4 +17,12 @@
 linear-gradient(138.22deg, rgba(21, 213, 255, 0.2) 0.44%, rgba(255, 255, 255, 0) 101.11%);
 }
 
+.link-tom {
+  background: linear-gradient(0deg, #123970, #123970),
+linear-gradient(138.22deg, rgba(21, 213, 255, 0.2) 0.44%, rgba(255, 255, 255, 0) 101.11%);
+}
 
+.link-spotify {
+  background-color: #1db954;
+  background: linear-gradient(120deg, #1db954, #0f8a35);
+}
